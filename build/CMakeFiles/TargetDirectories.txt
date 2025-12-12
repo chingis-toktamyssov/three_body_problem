@@ -1,0 +1,3 @@
+C:/Users/cokta/Documents/code/three_body_problem/build/CMakeFiles/ThreeBodyProblem.dir
+C:/Users/cokta/Documents/code/three_body_problem/build/CMakeFiles/edit_cache.dir
+C:/Users/cokta/Documents/code/three_body_problem/build/CMakeFiles/rebuild_cache.dir
