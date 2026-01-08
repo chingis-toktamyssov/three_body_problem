@@ -274,155 +274,6 @@ CMakeFiles/ThreeBodyProblem.dir/src/glad.c.obj: C:/Users/cokta/Documents/code/th
   C:/Users/cokta/Documents/code/three_body_problem/include/glad/glad.h
 
 CMakeFiles/ThreeBodyProblem.dir/src/main.cpp.obj: C:/Users/cokta/Documents/code/three_body_problem/src/main.cpp \
-  C:/MinGW/include/c++/13.2.0/backward/binders.h \
-  C:/MinGW/include/c++/13.2.0/bit \
-  C:/MinGW/include/c++/13.2.0/bits/alloc_traits.h \
-  C:/MinGW/include/c++/13.2.0/bits/allocator.h \
-  C:/MinGW/include/c++/13.2.0/bits/basic_ios.h \
-  C:/MinGW/include/c++/13.2.0/bits/basic_ios.tcc \
-  C:/MinGW/include/c++/13.2.0/bits/basic_string.h \
-  C:/MinGW/include/c++/13.2.0/bits/basic_string.tcc \
-  C:/MinGW/include/c++/13.2.0/bits/char_traits.h \
-  C:/MinGW/include/c++/13.2.0/bits/charconv.h \
-  C:/MinGW/include/c++/13.2.0/bits/concept_check.h \
-  C:/MinGW/include/c++/13.2.0/bits/cpp_type_traits.h \
-  C:/MinGW/include/c++/13.2.0/bits/cxxabi_forced.h \
-  C:/MinGW/include/c++/13.2.0/bits/cxxabi_init_exception.h \
-  C:/MinGW/include/c++/13.2.0/bits/exception.h \
-  C:/MinGW/include/c++/13.2.0/bits/exception_defines.h \
-  C:/MinGW/include/c++/13.2.0/bits/exception_ptr.h \
-  C:/MinGW/include/c++/13.2.0/bits/functexcept.h \
-  C:/MinGW/include/c++/13.2.0/bits/functional_hash.h \
-  C:/MinGW/include/c++/13.2.0/bits/hash_bytes.h \
-  C:/MinGW/include/c++/13.2.0/bits/invoke.h \
-  C:/MinGW/include/c++/13.2.0/bits/ios_base.h \
-  C:/MinGW/include/c++/13.2.0/bits/istream.tcc \
-  C:/MinGW/include/c++/13.2.0/bits/locale_classes.h \
-  C:/MinGW/include/c++/13.2.0/bits/locale_classes.tcc \
-  C:/MinGW/include/c++/13.2.0/bits/locale_facets.h \
-  C:/MinGW/include/c++/13.2.0/bits/locale_facets.tcc \
-  C:/MinGW/include/c++/13.2.0/bits/localefwd.h \
-  C:/MinGW/include/c++/13.2.0/bits/memory_resource.h \
-  C:/MinGW/include/c++/13.2.0/bits/memoryfwd.h \
-  C:/MinGW/include/c++/13.2.0/bits/move.h \
-  C:/MinGW/include/c++/13.2.0/bits/nested_exception.h \
-  C:/MinGW/include/c++/13.2.0/bits/new_allocator.h \
-  C:/MinGW/include/c++/13.2.0/bits/ostream.tcc \
-  C:/MinGW/include/c++/13.2.0/bits/ostream_insert.h \
-  C:/MinGW/include/c++/13.2.0/bits/postypes.h \
-  C:/MinGW/include/c++/13.2.0/bits/predefined_ops.h \
-  C:/MinGW/include/c++/13.2.0/bits/ptr_traits.h \
-  C:/MinGW/include/c++/13.2.0/bits/range_access.h \
-  C:/MinGW/include/c++/13.2.0/bits/refwrap.h \
-  C:/MinGW/include/c++/13.2.0/bits/requires_hosted.h \
-  C:/MinGW/include/c++/13.2.0/bits/std_abs.h \
-  C:/MinGW/include/c++/13.2.0/bits/stl_algobase.h \
-  C:/MinGW/include/c++/13.2.0/bits/stl_construct.h \
-  C:/MinGW/include/c++/13.2.0/bits/stl_function.h \
-  C:/MinGW/include/c++/13.2.0/bits/stl_iterator.h \
-  C:/MinGW/include/c++/13.2.0/bits/stl_iterator_base_funcs.h \
-  C:/MinGW/include/c++/13.2.0/bits/stl_iterator_base_types.h \
-  C:/MinGW/include/c++/13.2.0/bits/stl_pair.h \
-  C:/MinGW/include/c++/13.2.0/bits/streambuf.tcc \
-  C:/MinGW/include/c++/13.2.0/bits/streambuf_iterator.h \
-  C:/MinGW/include/c++/13.2.0/bits/string_view.tcc \
-  C:/MinGW/include/c++/13.2.0/bits/stringfwd.h \
-  C:/MinGW/include/c++/13.2.0/bits/uses_allocator.h \
-  C:/MinGW/include/c++/13.2.0/bits/uses_allocator_args.h \
-  C:/MinGW/include/c++/13.2.0/bits/utility.h \
-  C:/MinGW/include/c++/13.2.0/cctype \
-  C:/MinGW/include/c++/13.2.0/cerrno \
-  C:/MinGW/include/c++/13.2.0/clocale \
-  C:/MinGW/include/c++/13.2.0/cstddef \
-  C:/MinGW/include/c++/13.2.0/cstdio \
-  C:/MinGW/include/c++/13.2.0/cstdlib \
-  C:/MinGW/include/c++/13.2.0/cwchar \
-  C:/MinGW/include/c++/13.2.0/cwctype \
-  C:/MinGW/include/c++/13.2.0/debug/assertions.h \
-  C:/MinGW/include/c++/13.2.0/debug/debug.h \
-  C:/MinGW/include/c++/13.2.0/exception \
-  C:/MinGW/include/c++/13.2.0/ext/alloc_traits.h \
-  C:/MinGW/include/c++/13.2.0/ext/atomicity.h \
-  C:/MinGW/include/c++/13.2.0/ext/numeric_traits.h \
-  C:/MinGW/include/c++/13.2.0/ext/string_conversions.h \
-  C:/MinGW/include/c++/13.2.0/ext/type_traits.h \
-  C:/MinGW/include/c++/13.2.0/initializer_list \
-  C:/MinGW/include/c++/13.2.0/ios \
-  C:/MinGW/include/c++/13.2.0/iosfwd \
-  C:/MinGW/include/c++/13.2.0/iostream \
-  C:/MinGW/include/c++/13.2.0/istream \
-  C:/MinGW/include/c++/13.2.0/new \
-  C:/MinGW/include/c++/13.2.0/ostream \
-  C:/MinGW/include/c++/13.2.0/pstl/pstl_config.h \
-  C:/MinGW/include/c++/13.2.0/stdexcept \
-  C:/MinGW/include/c++/13.2.0/stdlib.h \
-  C:/MinGW/include/c++/13.2.0/streambuf \
-  C:/MinGW/include/c++/13.2.0/string \
-  C:/MinGW/include/c++/13.2.0/string_view \
-  C:/MinGW/include/c++/13.2.0/system_error \
-  C:/MinGW/include/c++/13.2.0/tuple \
-  C:/MinGW/include/c++/13.2.0/type_traits \
-  C:/MinGW/include/c++/13.2.0/typeinfo \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++locale.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_base.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_inline.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/error_constants.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/gthr-default.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/gthr.h \
-  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h \
-  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
-  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
-  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
-  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  C:/MinGW/x86_64-w64-mingw32/include/_mingw.h \
-  C:/MinGW/x86_64-w64-mingw32/include/_mingw_mac.h \
-  C:/MinGW/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  C:/MinGW/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  C:/MinGW/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  C:/MinGW/x86_64-w64-mingw32/include/_timeval.h \
-  C:/MinGW/x86_64-w64-mingw32/include/corecrt.h \
-  C:/MinGW/x86_64-w64-mingw32/include/corecrt_startup.h \
-  C:/MinGW/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  C:/MinGW/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  C:/MinGW/x86_64-w64-mingw32/include/crtdefs.h \
-  C:/MinGW/x86_64-w64-mingw32/include/ctype.h \
-  C:/MinGW/x86_64-w64-mingw32/include/errno.h \
-  C:/MinGW/x86_64-w64-mingw32/include/limits.h \
-  C:/MinGW/x86_64-w64-mingw32/include/locale.h \
-  C:/MinGW/x86_64-w64-mingw32/include/malloc.h \
-  C:/MinGW/x86_64-w64-mingw32/include/process.h \
-  C:/MinGW/x86_64-w64-mingw32/include/pthread.h \
-  C:/MinGW/x86_64-w64-mingw32/include/pthread_compat.h \
-  C:/MinGW/x86_64-w64-mingw32/include/pthread_signal.h \
-  C:/MinGW/x86_64-w64-mingw32/include/pthread_time.h \
-  C:/MinGW/x86_64-w64-mingw32/include/pthread_unistd.h \
-  C:/MinGW/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  C:/MinGW/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
-  C:/MinGW/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  C:/MinGW/x86_64-w64-mingw32/include/signal.h \
-  C:/MinGW/x86_64-w64-mingw32/include/stddef.h \
-  C:/MinGW/x86_64-w64-mingw32/include/stdint.h \
-  C:/MinGW/x86_64-w64-mingw32/include/stdio.h \
-  C:/MinGW/x86_64-w64-mingw32/include/stdlib.h \
-  C:/MinGW/x86_64-w64-mingw32/include/swprintf.inl \
-  C:/MinGW/x86_64-w64-mingw32/include/sys/timeb.h \
-  C:/MinGW/x86_64-w64-mingw32/include/sys/types.h \
-  C:/MinGW/x86_64-w64-mingw32/include/time.h \
-  C:/MinGW/x86_64-w64-mingw32/include/vadefs.h \
-  C:/MinGW/x86_64-w64-mingw32/include/wchar.h \
-  C:/MinGW/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/cokta/Documents/code/three_body_problem/include/GLFW/glfw3.h \
-  C:/Users/cokta/Documents/code/three_body_problem/include/glad/KHR/khrplatform.h \
-  C:/Users/cokta/Documents/code/three_body_problem/include/glad/glad.h
-
-CMakeFiles/ThreeBodyProblem.dir/src/threeBodyPhysics.cpp.obj: C:/Users/cokta/Documents/code/three_body_problem/src/threeBodyPhysics.cpp \
   C:/MinGW/include/c++/13.2.0/array \
   C:/MinGW/include/c++/13.2.0/backward/binders.h \
   C:/MinGW/include/c++/13.2.0/bit \
@@ -512,6 +363,7 @@ CMakeFiles/ThreeBodyProblem.dir/src/threeBodyPhysics.cpp.obj: C:/Users/cokta/Doc
   C:/MinGW/include/c++/13.2.0/cstdint \
   C:/MinGW/include/c++/13.2.0/cstdio \
   C:/MinGW/include/c++/13.2.0/cstdlib \
+  C:/MinGW/include/c++/13.2.0/cstring \
   C:/MinGW/include/c++/13.2.0/cwchar \
   C:/MinGW/include/c++/13.2.0/cwctype \
   C:/MinGW/include/c++/13.2.0/debug/assertions.h \
@@ -605,6 +457,7 @@ CMakeFiles/ThreeBodyProblem.dir/src/threeBodyPhysics.cpp.obj: C:/Users/cokta/Doc
   C:/MinGW/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
   C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
   C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/string_s.h \
   C:/MinGW/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
   C:/MinGW/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
   C:/MinGW/x86_64-w64-mingw32/include/signal.h \
@@ -612,6 +465,7 @@ CMakeFiles/ThreeBodyProblem.dir/src/threeBodyPhysics.cpp.obj: C:/Users/cokta/Doc
   C:/MinGW/x86_64-w64-mingw32/include/stdint.h \
   C:/MinGW/x86_64-w64-mingw32/include/stdio.h \
   C:/MinGW/x86_64-w64-mingw32/include/stdlib.h \
+  C:/MinGW/x86_64-w64-mingw32/include/string.h \
   C:/MinGW/x86_64-w64-mingw32/include/swprintf.inl \
   C:/MinGW/x86_64-w64-mingw32/include/sys/timeb.h \
   C:/MinGW/x86_64-w64-mingw32/include/sys/types.h \
@@ -622,6 +476,306 @@ CMakeFiles/ThreeBodyProblem.dir/src/threeBodyPhysics.cpp.obj: C:/Users/cokta/Doc
   C:/Users/cokta/Documents/code/three_body_problem/include/GLFW/glfw3.h \
   C:/Users/cokta/Documents/code/three_body_problem/include/glad/KHR/khrplatform.h \
   C:/Users/cokta/Documents/code/three_body_problem/include/glad/glad.h \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/common.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/_fixes.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/_vectorize.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/compute_common.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/compute_vector_decl.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/compute_vector_relational.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_common.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_exponential.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_geometric.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_integer.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_matrix.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_packing.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_trigonometric.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_vector_relational.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/qualifier.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/setup.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_float.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_half.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_half.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat2x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat2x2.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat2x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat2x3.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat2x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat2x4.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x2.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x3.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x4.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x2.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x3.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x4.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_quat.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_quat.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec1.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec1.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec2.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec3.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec4.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/exponential.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_clip_space.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_clip_space.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double2x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double2x2_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double2x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double2x3_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double2x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double2x4_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double3x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double3x2_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double3x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double3x3_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double3x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double3x4_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double4x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double4x2_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double4x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double4x3_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double4x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double4x4_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x2_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x3_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x4_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x2_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x3_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x4_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x2_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x3_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x4_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_projection.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_projection.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_transform.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_transform.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_common.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_common.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_double.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_double_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_float.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_float_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_geometric.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_geometric.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_relational.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_relational.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_transform.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_transform.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_trigonometric.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_trigonometric.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_constants.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_constants.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_int_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_uint_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool1.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool1_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool2_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool3_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool4_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double1.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double1_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double2_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double3_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double4_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float1.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float1_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float2_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float3_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float4_precision.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int1.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int1_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int2_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int3_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int4_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_relational.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_relational.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint1.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint1_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint2_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint3_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint4_sized.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/fwd.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/geometric.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/glm.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/constants.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/constants.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/epsilon.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/epsilon.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/matrix_transform.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/matrix_transform.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/quaternion.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/quaternion.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/type_ptr.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/type_ptr.inl \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/vec1.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/integer.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat2x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat2x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat2x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat3x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat3x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat3x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat4x2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat4x3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat4x4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/matrix.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/packing.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/simd/platform.h \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/trigonometric.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/vec2.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/vec3.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/vec4.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/vector_relational.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/src/threeBodyPhysics.h
+
+CMakeFiles/ThreeBodyProblem.dir/src/threeBodyPhysics.cpp.obj: C:/Users/cokta/Documents/code/three_body_problem/src/threeBodyPhysics.cpp \
+  C:/MinGW/include/c++/13.2.0/array \
+  C:/MinGW/include/c++/13.2.0/backward/binders.h \
+  C:/MinGW/include/c++/13.2.0/bit \
+  C:/MinGW/include/c++/13.2.0/bits/algorithmfwd.h \
+  C:/MinGW/include/c++/13.2.0/bits/alloc_traits.h \
+  C:/MinGW/include/c++/13.2.0/bits/allocator.h \
+  C:/MinGW/include/c++/13.2.0/bits/concept_check.h \
+  C:/MinGW/include/c++/13.2.0/bits/cpp_type_traits.h \
+  C:/MinGW/include/c++/13.2.0/bits/enable_special_members.h \
+  C:/MinGW/include/c++/13.2.0/bits/erase_if.h \
+  C:/MinGW/include/c++/13.2.0/bits/exception.h \
+  C:/MinGW/include/c++/13.2.0/bits/exception_defines.h \
+  C:/MinGW/include/c++/13.2.0/bits/functexcept.h \
+  C:/MinGW/include/c++/13.2.0/bits/functional_hash.h \
+  C:/MinGW/include/c++/13.2.0/bits/hash_bytes.h \
+  C:/MinGW/include/c++/13.2.0/bits/hashtable.h \
+  C:/MinGW/include/c++/13.2.0/bits/hashtable_policy.h \
+  C:/MinGW/include/c++/13.2.0/bits/invoke.h \
+  C:/MinGW/include/c++/13.2.0/bits/memory_resource.h \
+  C:/MinGW/include/c++/13.2.0/bits/memoryfwd.h \
+  C:/MinGW/include/c++/13.2.0/bits/move.h \
+  C:/MinGW/include/c++/13.2.0/bits/new_allocator.h \
+  C:/MinGW/include/c++/13.2.0/bits/node_handle.h \
+  C:/MinGW/include/c++/13.2.0/bits/predefined_ops.h \
+  C:/MinGW/include/c++/13.2.0/bits/ptr_traits.h \
+  C:/MinGW/include/c++/13.2.0/bits/range_access.h \
+  C:/MinGW/include/c++/13.2.0/bits/refwrap.h \
+  C:/MinGW/include/c++/13.2.0/bits/requires_hosted.h \
+  C:/MinGW/include/c++/13.2.0/bits/specfun.h \
+  C:/MinGW/include/c++/13.2.0/bits/std_abs.h \
+  C:/MinGW/include/c++/13.2.0/bits/std_function.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_algo.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_algobase.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_bvector.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_construct.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_function.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_heap.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_iterator.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_iterator_base_funcs.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_iterator_base_types.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_pair.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_tempbuf.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_uninitialized.h \
+  C:/MinGW/include/c++/13.2.0/bits/stl_vector.h \
+  C:/MinGW/include/c++/13.2.0/bits/uniform_int_dist.h \
+  C:/MinGW/include/c++/13.2.0/bits/unordered_map.h \
+  C:/MinGW/include/c++/13.2.0/bits/uses_allocator.h \
+  C:/MinGW/include/c++/13.2.0/bits/uses_allocator_args.h \
+  C:/MinGW/include/c++/13.2.0/bits/utility.h \
+  C:/MinGW/include/c++/13.2.0/bits/vector.tcc \
+  C:/MinGW/include/c++/13.2.0/cassert \
+  C:/MinGW/include/c++/13.2.0/cfloat \
+  C:/MinGW/include/c++/13.2.0/climits \
+  C:/MinGW/include/c++/13.2.0/cmath \
+  C:/MinGW/include/c++/13.2.0/compare \
+  C:/MinGW/include/c++/13.2.0/cstddef \
+  C:/MinGW/include/c++/13.2.0/cstdint \
+  C:/MinGW/include/c++/13.2.0/cstdlib \
+  C:/MinGW/include/c++/13.2.0/debug/assertions.h \
+  C:/MinGW/include/c++/13.2.0/debug/debug.h \
+  C:/MinGW/include/c++/13.2.0/ext/aligned_buffer.h \
+  C:/MinGW/include/c++/13.2.0/ext/alloc_traits.h \
+  C:/MinGW/include/c++/13.2.0/ext/numeric_traits.h \
+  C:/MinGW/include/c++/13.2.0/ext/type_traits.h \
+  C:/MinGW/include/c++/13.2.0/functional \
+  C:/MinGW/include/c++/13.2.0/initializer_list \
+  C:/MinGW/include/c++/13.2.0/limits \
+  C:/MinGW/include/c++/13.2.0/new \
+  C:/MinGW/include/c++/13.2.0/pstl/pstl_config.h \
+  C:/MinGW/include/c++/13.2.0/stdlib.h \
+  C:/MinGW/include/c++/13.2.0/tr1/bessel_function.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/beta_function.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/ell_integral.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/exp_integral.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/gamma.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/hypergeometric.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/legendre_function.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/modified_bessel_func.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/poly_hermite.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/poly_laguerre.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/riemann_zeta.tcc \
+  C:/MinGW/include/c++/13.2.0/tr1/special_function_util.h \
+  C:/MinGW/include/c++/13.2.0/tuple \
+  C:/MinGW/include/c++/13.2.0/type_traits \
+  C:/MinGW/include/c++/13.2.0/typeinfo \
+  C:/MinGW/include/c++/13.2.0/unordered_map \
+  C:/MinGW/include/c++/13.2.0/vector \
+  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
+  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/float.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/MinGW/x86_64-w64-mingw32/include/assert.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/MinGW/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/MinGW/x86_64-w64-mingw32/include/errno.h \
+  C:/MinGW/x86_64-w64-mingw32/include/float.h \
+  C:/MinGW/x86_64-w64-mingw32/include/limits.h \
+  C:/MinGW/x86_64-w64-mingw32/include/malloc.h \
+  C:/MinGW/x86_64-w64-mingw32/include/math.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stddef.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdint.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdlib.h \
+  C:/MinGW/x86_64-w64-mingw32/include/vadefs.h \
   C:/Users/cokta/Documents/code/three_body_problem/include/glm/common.hpp \
   C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/_fixes.hpp \
   C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/_vectorize.hpp \
@@ -755,16 +909,17 @@ CMakeFiles/ThreeBodyProblem.dir/src/threeBodyPhysics.cpp.obj: C:/Users/cokta/Doc
   C:/Users/cokta/Documents/code/three_body_problem/include/glm/vec2.hpp \
   C:/Users/cokta/Documents/code/three_body_problem/include/glm/vec3.hpp \
   C:/Users/cokta/Documents/code/three_body_problem/include/glm/vec4.hpp \
-  C:/Users/cokta/Documents/code/three_body_problem/include/glm/vector_relational.hpp
+  C:/Users/cokta/Documents/code/three_body_problem/include/glm/vector_relational.hpp \
+  C:/Users/cokta/Documents/code/three_body_problem/src/threeBodyPhysics.h
 
+
+C:/Users/cokta/Documents/code/three_body_problem/src/threeBodyPhysics.cpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/vec4.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/vec3.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/vec2.hpp:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/trigonometric.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/matrix.hpp:
 
@@ -777,6 +932,12 @@ C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat3x4.hpp:
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat3x2.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/mat2x2.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/type_ptr.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/quaternion.inl:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/matrix_transform.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/glm.hpp:
 
@@ -794,6 +955,10 @@ C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint2_si
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint2.hpp:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint1.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_relational.hpp:
+
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int4_sized.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int4.hpp:
@@ -801,6 +966,50 @@ C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int4.hpp
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int2.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float3_precision.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float3.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/simd/platform.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float2_precision.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float2.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float1_precision.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double4_precision.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double4.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double2.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double1.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool4.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool3.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool2.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool1.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_uint_sized.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_int_sized.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_constants.inl:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_constants.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_trigonometric.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_transform.inl:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_transform.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_relational.inl:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_relational.hpp:
 
 C:/MinGW/x86_64-w64-mingw32/include/winnls.h:
 
@@ -815,6 +1024,12 @@ C:/MinGW/x86_64-w64-mingw32/include/systemtopologyapi.h:
 C:/MinGW/x86_64-w64-mingw32/include/heapapi.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/sysinfoapi.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double2_precision.hpp:
+
+C:/MinGW/x86_64-w64-mingw32/include/ctype.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/epsilon.hpp:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/bmi2intrin.h:
 
@@ -831,6 +1046,8 @@ C:/MinGW/x86_64-w64-mingw32/include/securitybaseapi.h:
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/pkuintrin.h:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/compute_common.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int1.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec2.hpp:
 
@@ -874,8 +1091,6 @@ C:/MinGW/x86_64-w64-mingw32/include/pshpack2.h:
 
 C:/MinGW/include/c++/13.2.0/cstdlib:
 
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double4.hpp:
-
 C:/MinGW/include/c++/13.2.0/string:
 
 C:/MinGW/include/c++/13.2.0/pstl/pstl_config.h:
@@ -886,9 +1101,17 @@ C:/MinGW/include/c++/13.2.0/bits/erase_if.h:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x2.hpp:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool1_precision.hpp:
+
 C:/MinGW/x86_64-w64-mingw32/include/stralign.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool4_precision.hpp:
+
+C:/MinGW/x86_64-w64-mingw32/include/_mingw.h:
+
 C:/MinGW/include/c++/13.2.0/bits/requires_hosted.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/constants.inl:
 
 C:/MinGW/x86_64-w64-mingw32/include/prsht.h:
 
@@ -968,8 +1191,6 @@ C:/MinGW/x86_64-w64-mingw32/include/minwinbase.h:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/tmmintrin.h:
 
-C:/MinGW/include/c++/13.2.0/cfloat:
-
 C:/MinGW/x86_64-w64-mingw32/include/joystickapi.h:
 
 C:/MinGW/include/c++/13.2.0/ostream:
@@ -994,6 +1215,8 @@ C:/MinGW/x86_64-w64-mingw32/include/errhandlingapi.h:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/clwbintrin.h:
 
+C:/MinGW/include/c++/13.2.0/cstring:
+
 C:/MinGW/x86_64-w64-mingw32/include/objidlbase.h:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/gfniintrin.h:
@@ -1014,11 +1237,15 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vp2intersectvlintrin.h:
 
 C:/MinGW/include/c++/13.2.0/bits/std_abs.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_geometric.hpp:
+
 C:/MinGW/x86_64-w64-mingw32/include/_mingw_secapi.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/psdk_inc/intrin-impl.h:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/bmiintrin.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/src/threeBodyPhysics.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/datetimeapi.h:
 
@@ -1026,7 +1253,11 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/pconfigintrin.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/mmiscapi.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_uint1_sized.hpp:
+
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/clzerointrin.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_double.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int3.hpp:
 
@@ -1062,6 +1293,8 @@ C:/MinGW/include/c++/13.2.0/bits/postypes.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/swprintf.inl:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_transform.inl:
+
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512dqintrin.h:
 
 C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/gthr.h:
@@ -1076,6 +1309,10 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx2intrin.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/threadpoolapiset.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double3.hpp:
+
+C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vbmiintrin.h:
+
 C:/MinGW/x86_64-w64-mingw32/include/_mingw_unicode.h:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/amxtileintrin.h:
@@ -1086,13 +1323,13 @@ C:/MinGW/include/c++/13.2.0/new:
 
 C:/MinGW/include/c++/13.2.0/bit:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/matrix_transform.inl:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_relational.inl:
+
 C:/MinGW/x86_64-w64-mingw32/include/pshpack1.h:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x2.hpp:
-
-C:/MinGW/x86_64-w64-mingw32/include/rpcnsip.h:
-
-C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/cldemoteintrin.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/_mingw_mac.h:
 
@@ -1116,10 +1353,6 @@ C:/MinGW/x86_64-w64-mingw32/include/oaidl.h:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/xmmintrin.h:
 
-C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vbmiintrin.h:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double3.hpp:
-
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/packing.hpp:
 
 C:/MinGW/x86_64-w64-mingw32/include/propidl.h:
@@ -1130,6 +1363,8 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mmintrin.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/winefs.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_float_precision.hpp:
+
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat2x2.hpp:
@@ -1139,6 +1374,8 @@ C:/MinGW/include/c++/13.2.0/bits/stl_iterator_base_funcs.h:
 C:/MinGW/x86_64-w64-mingw32/include/stdio.h:
 
 C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/basic_file.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_transform.hpp:
 
 C:/MinGW/x86_64-w64-mingw32/include/lzexpand.h:
 
@@ -1170,7 +1407,7 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vldqintrin.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/winnetwk.h:
 
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double4_precision.hpp:
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int1_sized.hpp:
 
 C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
@@ -1207,6 +1444,8 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/waitpkgintrin.h:
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512bf16intrin.h:
 
 C:/MinGW/include/c++/13.2.0/initializer_list:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_common.inl:
 
 C:/MinGW/x86_64-w64-mingw32/include/rpcnterr.h:
 
@@ -1280,6 +1519,8 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/raointintrin.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/imm.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/epsilon.inl:
+
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float4_precision.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x4_precision.hpp:
@@ -1316,11 +1557,11 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vbmi2intrin.h:
 
 C:/MinGW/include/c++/13.2.0/bits/cpp_type_traits.h:
 
+C:/MinGW/include/c++/13.2.0/bits/specfun.h:
+
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/immintrin.h:
 
 C:/MinGW/include/c++/13.2.0/ext/numeric_traits.h:
-
-C:/MinGW/include/c++/13.2.0/bits/specfun.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/playsoundapi.h:
 
@@ -1347,8 +1588,6 @@ C:/MinGW/x86_64-w64-mingw32/include/poppack.h:
 C:/MinGW/x86_64-w64-mingw32/include/wtypesbase.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/time.h:
-
-C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/uintrintrin.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/apisetcconv.h:
 
@@ -1382,13 +1621,15 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512bf16vlintrin.h:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/wbnoinvdintrin.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/constants.hpp:
+
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vpopcntdqvlintrin.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/_timeval.h:
 
-C:/MinGW/include/c++/13.2.0/bits/streambuf.tcc:
-
 C:/MinGW/include/c++/13.2.0/bits/fstream.tcc:
+
+C:/MinGW/include/c++/13.2.0/bits/streambuf.tcc:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/xsavesintrin.h:
 
@@ -1399,6 +1640,8 @@ C:/MinGW/x86_64-w64-mingw32/include/minwindef.h:
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/xopintrin.h:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/xsaveintrin.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/type_ptr.inl:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/pmmintrin.h:
 
@@ -1448,9 +1691,13 @@ C:/MinGW/x86_64-w64-mingw32/include/winsmcrd.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/pthread_signal.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_double_precision.hpp:
+
 C:/MinGW/x86_64-w64-mingw32/include/winver.h:
 
 C:/MinGW/include/c++/13.2.0/clocale:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/quaternion.hpp:
 
 C:/MinGW/x86_64-w64-mingw32/include/psdk_inc/_wsadata.h:
 
@@ -1474,7 +1721,19 @@ C:/MinGW/include/c++/13.2.0/tr1/exp_integral.tcc:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glad/glad.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_projection.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/gtc/vec1.hpp:
+
+C:/MinGW/x86_64-w64-mingw32/include/winioctl.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat2x3.inl:
+
+C:/MinGW/include/c++/13.2.0/array:
+
 C:/MinGW/include/c++/13.2.0/backward/binders.h:
+
+C:/MinGW/include/c++/13.2.0/bits/algorithmfwd.h:
 
 C:/MinGW/include/c++/13.2.0/bits/allocator.h:
 
@@ -1483,6 +1742,14 @@ C:/MinGW/include/c++/13.2.0/bits/stl_bvector.h:
 C:/MinGW/include/c++/13.2.0/bits/char_traits.h:
 
 C:/MinGW/include/c++/13.2.0/bits/charconv.h:
+
+C:/MinGW/x86_64-w64-mingw32/include/wincon.h:
+
+C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/error_constants.h:
+
+C:/MinGW/include/c++/13.2.0/bits/codecvt.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double1_precision.hpp:
 
 C:/MinGW/include/c++/13.2.0/bits/concept_check.h:
 
@@ -1517,6 +1784,16 @@ C:/Users/cokta/Documents/code/three_body_problem/include/glm/exponential.hpp:
 C:/MinGW/x86_64-w64-mingw32/include/stddef.h:
 
 C:/MinGW/include/c++/13.2.0/bits/functexcept.h:
+
+C:/MinGW/x86_64-w64-mingw32/include/dde.h:
+
+C:/MinGW/include/c++/13.2.0/bits/hashtable_policy.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int3_sized.hpp:
+
+C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/sgxintrin.h:
+
+C:/MinGW/include/c++/13.2.0/cstddef:
 
 C:/MinGW/x86_64-w64-mingw32/include/processtopologyapi.h:
 
@@ -1554,9 +1831,39 @@ C:/MinGW/include/c++/13.2.0/bits/ostream.tcc:
 
 C:/MinGW/include/c++/13.2.0/bits/stl_algobase.h:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double3_precision.hpp:
+
+C:/MinGW/include/c++/13.2.0/bits/ptr_traits.h:
+
+C:/MinGW/include/c++/13.2.0/bits/sstream.tcc:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double4x4.hpp:
+
+C:/MinGW/include/c++/13.2.0/bits/cxxabi_init_exception.h:
+
+C:/MinGW/include/c++/13.2.0/bits/std_function.h:
+
+C:/MinGW/x86_64-w64-mingw32/include/psdk_inc/_ip_mreq1.h:
+
+C:/MinGW/include/c++/13.2.0/stdexcept:
+
+C:/MinGW/x86_64-w64-mingw32/include/rpcnsip.h:
+
+C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/cldemoteintrin.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_float.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float1.hpp:
+
+C:/MinGW/include/c++/13.2.0/bits/stl_algo.h:
+
 C:/MinGW/include/c++/13.2.0/bits/stl_construct.h:
 
 C:/MinGW/include/c++/13.2.0/tr1/beta_function.tcc:
+
+C:/MinGW/include/c++/13.2.0/bits/refwrap.h:
+
+C:/MinGW/include/c++/13.2.0/bits/stl_heap.h:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/vector_relational.hpp:
 
@@ -1564,7 +1871,17 @@ C:/MinGW/include/c++/13.2.0/bits/stl_iterator_base_types.h:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec1.inl:
 
+C:/MinGW/include/c++/13.2.0/bits/stl_vector.h:
+
 C:/MinGW/include/c++/13.2.0/bits/streambuf_iterator.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x3.hpp:
+
+C:/MinGW/include/c++/13.2.0/bits/uniform_int_dist.h:
+
+C:/MinGW/include/c++/13.2.0/bits/stringfwd.h:
+
+C:/MinGW/include/c++/13.2.0/bits/unordered_map.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/wincrypt.h:
 
@@ -1572,25 +1889,53 @@ C:/MinGW/include/c++/13.2.0/bits/uses_allocator_args.h:
 
 C:/MinGW/include/c++/13.2.0/bits/utility.h:
 
+C:/MinGW/include/c++/13.2.0/bits/vector.tcc:
+
+C:/MinGW/include/c++/13.2.0/cassert:
+
 C:/MinGW/include/c++/13.2.0/cerrno:
 
 C:/MinGW/include/c++/13.2.0/type_traits:
 
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_int3_sized.hpp:
+C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h:
 
-C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/sgxintrin.h:
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double2x2.hpp:
 
-C:/MinGW/include/c++/13.2.0/cstddef:
+C:/MinGW/include/c++/13.2.0/climits:
 
-C:/MinGW/x86_64-w64-mingw32/include/dde.h:
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_packing.inl:
 
-C:/MinGW/include/c++/13.2.0/bits/hashtable_policy.h:
+C:/MinGW/x86_64-w64-mingw32/include/string.h:
+
+C:/MinGW/include/c++/13.2.0/cmath:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_trigonometric.inl:
+
+C:/MinGW/x86_64-w64-mingw32/include/winbase.h:
+
+C:/MinGW/include/c++/13.2.0/compare:
 
 C:/MinGW/include/c++/13.2.0/cwchar:
 
 C:/MinGW/include/c++/13.2.0/cwctype:
 
+C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/uintrintrin.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_clip_space.hpp:
+
 C:/MinGW/include/c++/13.2.0/debug/debug.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_projection.inl:
+
+C:/MinGW/include/c++/13.2.0/bits/functional_hash.h:
+
+C:/MinGW/include/c++/13.2.0/ext/aligned_buffer.h:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool3_precision.hpp:
+
+C:/MinGW/x86_64-w64-mingw32/include/tvout.h:
+
+C:/MinGW/include/c++/13.2.0/ext/alloc_traits.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/winsvc.h:
 
@@ -1598,11 +1943,11 @@ C:/MinGW/include/c++/13.2.0/ext/string_conversions.h:
 
 C:/MinGW/include/c++/13.2.0/ext/type_traits.h:
 
-C:/MinGW/x86_64-w64-mingw32/include/tvout.h:
+C:/MinGW/include/c++/13.2.0/fstream:
 
-C:/MinGW/include/c++/13.2.0/ext/alloc_traits.h:
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x2_precision.hpp:
 
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool3_precision.hpp:
+C:/MinGW/include/c++/13.2.0/functional:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_matrix.inl:
 
@@ -1618,19 +1963,25 @@ C:/MinGW/include/c++/13.2.0/iostream:
 
 C:/MinGW/include/c++/13.2.0/istream:
 
-C:/MinGW/x86_64-w64-mingw32/include/psdk_inc/_ip_mreq1.h:
-
-C:/MinGW/include/c++/13.2.0/stdexcept:
-
-C:/MinGW/include/c++/13.2.0/bits/cxxabi_init_exception.h:
-
-C:/MinGW/include/c++/13.2.0/bits/std_function.h:
-
 C:/MinGW/include/c++/13.2.0/string_view:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512pfintrin.h:
 
 C:/MinGW/include/c++/13.2.0/system_error:
+
+C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/keylockerintrin.h:
+
+C:/MinGW/include/c++/13.2.0/tr1/bessel_function.tcc:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float4.hpp:
+
+C:/MinGW/include/c++/13.2.0/tr1/gamma.tcc:
+
+C:/MinGW/include/c++/13.2.0/tr1/hypergeometric.tcc:
+
+C:/MinGW/x86_64-w64-mingw32/include/ktmtypes.h:
+
+C:/MinGW/include/c++/13.2.0/tr1/poly_laguerre.tcc:
 
 C:/MinGW/x86_64-w64-mingw32/include/_mingw_stdarg.h:
 
@@ -1639,6 +1990,10 @@ C:/MinGW/include/c++/13.2.0/tuple:
 C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 C:/MinGW/include/c++/13.2.0/typeinfo:
+
+C:/MinGW/x86_64-w64-mingw32/include/process.h:
+
+C:/MinGW/include/c++/13.2.0/unordered_map:
 
 C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/atomic_word.h:
 
@@ -1655,6 +2010,12 @@ C:/MinGW/x86_64-w64-mingw32/include/rpcasync.h:
 C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_base.h:
 
 C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_inline.h:
+
+C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/float.h:
+
+C:/MinGW/x86_64-w64-mingw32/include/assert.h:
+
+C:/MinGW/x86_64-w64-mingw32/include/float.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/locale.h:
 
@@ -1684,117 +2045,19 @@ C:/MinGW/x86_64-w64-mingw32/include/wchar.h:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/GLFW/glfw3.h:
 
-C:/Users/cokta/Documents/code/three_body_problem/src/threeBodyPhysics.cpp:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/setup.hpp:
-
-C:/MinGW/x86_64-w64-mingw32/include/winioctl.h:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat2x3.inl:
-
-C:/MinGW/include/c++/13.2.0/array:
-
-C:/MinGW/include/c++/13.2.0/bits/algorithmfwd.h:
-
-C:/MinGW/x86_64-w64-mingw32/include/wincon.h:
-
-C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/error_constants.h:
-
-C:/MinGW/include/c++/13.2.0/bits/codecvt.h:
-
-C:/MinGW/include/c++/13.2.0/bits/sstream.tcc:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double4x4.hpp:
-
-C:/MinGW/include/c++/13.2.0/bits/stl_algo.h:
-
-C:/MinGW/include/c++/13.2.0/bits/refwrap.h:
-
-C:/MinGW/include/c++/13.2.0/bits/stl_heap.h:
-
-C:/MinGW/include/c++/13.2.0/bits/stl_vector.h:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x3.hpp:
-
-C:/MinGW/include/c++/13.2.0/bits/uniform_int_dist.h:
-
-C:/MinGW/x86_64-w64-mingw32/include/ctype.h:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double2_precision.hpp:
-
-C:/MinGW/include/c++/13.2.0/bits/stringfwd.h:
-
-C:/MinGW/include/c++/13.2.0/bits/unordered_map.h:
-
-C:/MinGW/include/c++/13.2.0/bits/vector.tcc:
-
-C:/MinGW/include/c++/13.2.0/cassert:
-
-C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double2x2.hpp:
-
-C:/MinGW/include/c++/13.2.0/climits:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_packing.inl:
-
-C:/MinGW/x86_64-w64-mingw32/include/string.h:
-
-C:/MinGW/include/c++/13.2.0/cmath:
-
-C:/MinGW/x86_64-w64-mingw32/include/winbase.h:
-
-C:/MinGW/include/c++/13.2.0/compare:
-
-C:/MinGW/include/c++/13.2.0/bits/functional_hash.h:
-
-C:/MinGW/include/c++/13.2.0/ext/aligned_buffer.h:
-
-C:/MinGW/include/c++/13.2.0/fstream:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x2_precision.hpp:
-
-C:/MinGW/include/c++/13.2.0/functional:
-
-C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/keylockerintrin.h:
-
-C:/MinGW/include/c++/13.2.0/tr1/bessel_function.tcc:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float4.hpp:
-
-C:/MinGW/include/c++/13.2.0/tr1/gamma.tcc:
-
-C:/MinGW/include/c++/13.2.0/tr1/hypergeometric.tcc:
-
-C:/MinGW/x86_64-w64-mingw32/include/ktmtypes.h:
-
-C:/MinGW/include/c++/13.2.0/tr1/poly_laguerre.tcc:
-
-C:/MinGW/x86_64-w64-mingw32/include/process.h:
-
-C:/MinGW/include/c++/13.2.0/unordered_map:
-
-C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++io.h:
-
-C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/float.h:
-
-C:/MinGW/x86_64-w64-mingw32/include/assert.h:
-
-C:/MinGW/x86_64-w64-mingw32/include/float.h:
-
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/common.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_double3x2.hpp:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_float.hpp:
+
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/compute_vector_decl.hpp:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/simd/platform.h:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float2_precision.hpp:
 
 C:/MinGW/x86_64-w64-mingw32/include/winsock.h:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/compute_vector_relational.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_clip_space.inl:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_exponential.inl:
 
@@ -1813,6 +2076,8 @@ C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/func_trigono
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.2.0/include/fxsrintrin.h:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/qualifier.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/setup.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_half.hpp:
 
@@ -1838,8 +2103,6 @@ C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x4.
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x2.inl:
 
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float3.hpp:
-
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat3x2.inl:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x3.hpp:
@@ -1847,6 +2110,10 @@ C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x3.
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x3.inl:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_mat4x4.inl:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/trigonometric.hpp:
+
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_quat.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_vec1.hpp:
 
@@ -1878,15 +2145,13 @@ C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x2
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float2x3.hpp:
 
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/detail/type_quat.inl:
+
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x2.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x3.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float3x4_precision.hpp:
-
-C:/MinGW/include/c++/13.2.0/bits/ptr_traits.h:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double3_precision.hpp:
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x3.hpp:
 
@@ -1894,20 +2159,10 @@ C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x4
 
 C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/matrix_float4x4_precision.hpp:
 
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_int_sized.hpp:
+C:/MinGW/include/c++/13.2.0/cfloat:
 
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/scalar_uint_sized.hpp:
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_common.hpp:
 
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool2.hpp:
+C:/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++io.h:
 
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool3.hpp:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool4.hpp:
-
-C:/MinGW/x86_64-w64-mingw32/include/_mingw.h:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_bool4_precision.hpp:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_double2.hpp:
-
-C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/vector_float2.hpp:
+C:/Users/cokta/Documents/code/three_body_problem/include/glm/ext/quaternion_geometric.inl:
