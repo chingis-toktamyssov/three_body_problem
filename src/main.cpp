@@ -136,7 +136,7 @@ int main() {
     sunBody b1, b2, b3;
     double dt = 0.0005;
 
-    b1.position = dvec3(0.8, -0.24308753, 0);
+    b1.position = dvec3(1, -0.24308753, 0);
     b1.velocity = dvec3(0.93240737/2, 0.8643146/2, 0); b1.mass = 1;
 
     b2.position = dvec3(-0.97000436, 0.24308753, 0);
